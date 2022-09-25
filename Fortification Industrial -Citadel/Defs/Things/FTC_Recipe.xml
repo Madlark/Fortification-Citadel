@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+  <RecipeDef>
+    <defName>FT_ExtractSteelByJunks</defName>
+    <label>recycling junk (8)</label>
+    <description>smelting 8 kilograms of junk and extract back into the material. junk must be made of smeltable material.</description>
+	<ingredientValueGetterClass>AOBAUtilities.IngredientValueGetter_Mass</ingredientValueGetterClass>
+    <jobString>extracting metal from material</jobString>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <workAmount>400</workAmount>
+    <workSpeedStat>SmeltingSpeed</workSpeedStat>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Smelt</soundWorking>
+    <!-- <targetCountAdjustment>20</targetCountAdjustment> -->
+	
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>Weapons</li>
+            <li>Apparel</li>
+          </categories>
+          <thingDefs>
+            <li>ChunkSlagSteel</li>
+          </thingDefs>
+        </filter>
+        <count>8</count>
+      </li>
+    </ingredients>
+
+  	<fixedIngredientFilter>
+	  <categories>
+		<li>Weapons</li>
+		<li>Apparel</li>
+	  </categories>
+      <thingDefs>
+        <li>ChunkSlagSteel</li>
+      </thingDefs>
+      <specialFiltersToDisallow>
+        <li>AllowNonSmeltableWeapons</li>
+        <li>AllowNonSmeltableApparel</li>
+      </specialFiltersToDisallow>
+    </fixedIngredientFilter>
+
+    <forceHiddenSpecialFilters>
+      <li>AllowNonSmeltableWeapons</li>
+      <li>AllowNonSmeltableApparel</li>
+    </forceHiddenSpecialFilters>
+
+  	<defaultIngredientFilter>
+	  <categories>
+		<li>Weapons</li>
+        <li>Apparel</li>
+	  </categories>
+      <thingDefs>
+        <li>ChunkSlagSteel</li>
+      </thingDefs>
+      <disallowedThingDefs>
+        <li>Apparel_ShieldBelt</li>
+        <li>Apparel_SmokepopBelt</li>
+      </disallowedThingDefs>
+    </defaultIngredientFilter>
+
+    <specialProducts>
+      <li>Smelted</li>
+    </specialProducts>
+  </RecipeDef>
+  
+  <RecipeDef>
+    <defName>FT_ExtractSteelByJunksPlus</defName>
+    <label>recycling junk (32)</label>
+    <description>smelting 32 kilograms of junk and extract back into the material. junk must be made of smeltable material.</description>
+	<ingredientValueGetterClass>AOBAUtilities.IngredientValueGetter_Mass</ingredientValueGetterClass>
+    <jobString>extracting metal from material</jobString>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <workAmount>800</workAmount>
+    <workSpeedStat>SmeltingSpeed</workSpeedStat>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Smelt</soundWorking>
+    <!-- <targetCountAdjustment>20</targetCountAdjustment> -->
+	
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>Weapons</li>
+            <li>Apparel</li>
+          </categories>
+          <thingDefs>
+            <li>ChunkSlagSteel</li>
+          </thingDefs>
+        </filter>
+        <count>32</count>
+      </li>
+    </ingredients>
+
+  	<fixedIngredientFilter>
+	  <categories>
+		<li>Weapons</li>
+		<li>Apparel</li>
+	  </categories>
+      <thingDefs>
+        <li>ChunkSlagSteel</li>
+      </thingDefs>
+      <specialFiltersToDisallow>
+        <li>AllowNonSmeltableWeapons</li>
+        <li>AllowNonSmeltableApparel</li>
+      </specialFiltersToDisallow>
+    </fixedIngredientFilter>
+
+    <forceHiddenSpecialFilters>
+      <li>AllowNonSmeltableWeapons</li>
+      <li>AllowNonSmeltableApparel</li>
+    </forceHiddenSpecialFilters>
+
+  	<defaultIngredientFilter>
+	  <categories>
+		<li>Weapons</li>
+        <li>Apparel</li>
+	  </categories>
+      <thingDefs>
+        <li>ChunkSlagSteel</li>
+      </thingDefs>
+      <disallowedThingDefs>
+        <li>Apparel_ShieldBelt</li>
+        <li>Apparel_SmokepopBelt</li>
+      </disallowedThingDefs>
+    </defaultIngredientFilter>
+
+    <specialProducts>
+      <li>Smelted</li>
+    </specialProducts>
+  </RecipeDef>
+	
+	 
+<RecipeDef ParentName="CookMealBase">
+    <defName>FTC_KitchenCookMealSimple</defName>
+    <label>cook simple meal x8</label>
+    <description>Cook 8 straightforward meal from one ingredient.</description>
+    <jobString>Cooking simple meal.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <workAmount>2000</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>FoodRaw</li>
+          </categories>
+        </filter>
+        <count>4</count>
+      </li>
+    </ingredients>
+    <products>
+      <MealSimple>8</MealSimple>
+    </products>
+    <workSkill>Cooking</workSkill>
+  </RecipeDef>
+
+</Defs>	
