@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FTC_LostFortress.label>Abandoned frontline</FTC_LostFortress.label>
+  <FTC_LostFortress.description>You and the other two discovered this bunker while searching for a place to settle, the facility inside were relatively intact. No matter why the bunker was abandoned, you all decided to settle it here.</FTC_LostFortress.description>
+  <FTC_LostFortress.scenario.name>Abandoned frontline</FTC_LostFortress.scenario.name>
+  <FTC_LostFortress.scenario.summary>A group of stray refugees. and a newly abandoned bunker.</FTC_LostFortress.scenario.summary>
+  <FTC_LostFortress.scenario.description>You and the other two discovered this bunker while searching for a place to settle, the facility inside were relatively intact. No matter why the bunker was abandoned, you all decided to settle it here.</FTC_LostFortress.scenario.description>
+  <FTC_LostFortress.scenario.parts.6.text>everything seems new, machines, weapons, and there is even fuel and medicine in the stockpile, just like someone was still here a week ago.\n\n the trace of the former owner is unknown, left over the ending of an untold story to us with many mysteries. but one thing can be sure, the story of us starts here.</FTC_LostFortress.scenario.parts.6.text>
+
+
+</LanguageData>

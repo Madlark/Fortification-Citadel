@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FTC_InfrasonicDecoy.label>infrasonic Decoy</FTC_InfrasonicDecoy.label>
+  <FTC_InfrasonicDecoy.description>a facility which generating infrasound waves that induces angry animals and insectroid to the area where the facility is located to keep surrounding colonies safe, requiring electricity to operate.</FTC_InfrasonicDecoy.description>
+
+  <FTC_SignalDecoy.label>electromagnetic signal decoy</FTC_SignalDecoy.label>
+  <FTC_SignalDecoy.description>a facility which broadcasts disguised communications and forwards broadcasts. can hide the location of surrounding colonies from raid, requiring electricity to operate.</FTC_SignalDecoy.description>
+
+  <FTC_EnegryDecoy.label>enegry signal decoy</FTC_EnegryDecoy.label>
+  <FTC_EnegryDecoy.description>a facility which artificially create high-energy signals allows hostile entities that rely on energy reflection to select targets to identify them as a priority target, thereby protecting surrounding colonies from threats. requiring electricity to operate.</FTC_EnegryDecoy.description>
+
+
+</LanguageData>

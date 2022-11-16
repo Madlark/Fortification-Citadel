@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 噴煙者加強版 -->
+
+  <FTC_Katyusha_Turret.label>multi-railed rocket Launcher</FTC_Katyusha_Turret.label>
+  <FTC_Katyusha_Turret.description>A manned stationary rocket launcher with eight rails, each of which can attach 2 rockets, can shoot sixteen shells at one time, however, it's far from accurate and consumes a huge amount of chemfuel each time it fires.</FTC_Katyusha_Turret.description>
+
+  <FTC_Katyusha_Gun.label>multi-railed rocket</FTC_Katyusha_Gun.label>
+  <FTC_Katyusha_Gun.description>A railed rocket launcher. Lobs rocket shells over walls. Very inaccurate but mass-amount.</FTC_Katyusha_Gun.description>
+
+
+  <!-- Twin MG Bunker -->
+
+  <FTC_TwinMG_Turret.label>machinegun turret</FTC_TwinMG_Turret.label>
+  <FTC_TwinMG_Turret.description>a fixed machine gun turret mounting on a half-buried concrete box. n\n As a turret fortification, the gunner could operate the weapon internally until it was destroyed, but could not receive direct orders.\n\n This is a permanent structure, site wisely.</FTC_TwinMG_Turret.description>
+
+  <FTC_TwinMG_Gun.label>machine gun turret</FTC_TwinMG_Gun.label>
+  <FTC_TwinMG_Gun.description>Twin machine gun mounted on an armoured turret.</FTC_TwinMG_Gun.description>
+
+
+  <!-- AutoCannon Bunker -->
+
+  <FTC_Autocannon_Turret.label>autocannon turret</FTC_Autocannon_Turret.label>
+  <FTC_Autocannon_Turret.description>a fixed autocannon gun turret mounting on a half-buried concrete box. n\n As a turret fortification, the gunner could operate the weapon internally until it was destroyed, but could not receive direct orders.\n\n This is a permanent structure, site wisely.</FTC_Autocannon_Turret.description>
+
+  <FTC_Autocannon_Gun.label>autocannon turret</FTC_Autocannon_Gun.label>
+  <FTC_Autocannon_Gun.description>an autocannon mounted on an armoured turret.</FTC_Autocannon_Gun.description>
+
+
+</LanguageData>
