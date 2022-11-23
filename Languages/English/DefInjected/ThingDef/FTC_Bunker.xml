@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- MG Bunker -->
@@ -22,10 +22,10 @@
   <!-- 原版打大口徑砲彈,CE打155 -->
 
   <FTC_Batterey_Turret.label>Coastal battery</FTC_Batterey_Turret.label>
-  <FTC_Batterey_Turret.description>A heavy naval gun mounted on a large concrete bunker. Can effectively destroy enemies within range. n\n Gunners can safely man this permanent fortification until it is destroyed. \n\n This is a permanent structure, place it wisely.</FTC_Batterey_Turret.description>
+  <FTC_Batterey_Turret.description>A heavy navy gun mounted on a large concrete bunker. Can effectively destroy enemies within range. n\n Gunners can safely man this permanent fortification until it is destroyed. \n\n This is a permanent structure, place it wisely.</FTC_Batterey_Turret.description>
 
   <FTC_Batterey_Gun.label>Coastal artillery</FTC_Batterey_Gun.label>
-  <FTC_Batterey_Gun.description>A naval gun turret. Two operators are required to man this gun.</FTC_Batterey_Gun.description>
+  <FTC_Batterey_Gun.description>A navy gun turret. Two operators are required to man this gun.</FTC_Batterey_Gun.description>
 
   <FT_Bullet_BatteryShell.label>Heavy explosive shell</FT_Bullet_BatteryShell.label>
 
