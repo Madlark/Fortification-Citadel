@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- MG Bunker -->
@@ -6,7 +6,7 @@
   <FTC_Bunker_Turret.label>Quad machine gun bunker</FTC_Bunker_Turret.label>
   <FTC_Bunker_Turret.description>An entrenched, manned stationary machinegun bunker. Gunners can safely man the gun inside this permanent fortification. \n\n This is a permanent structure, place it wisely.</FTC_Bunker_Turret.description>
 
-  <FTC_Bunker_Gun.label>Quad machine gun.</FTC_Bunker_Gun.label>
+  <FTC_Bunker_Gun.label>Quad machine gun</FTC_Bunker_Gun.label>
   <FTC_Bunker_Gun.description>Four machine guns mounted inside a bunker.</FTC_Bunker_Gun.description>
 
 
