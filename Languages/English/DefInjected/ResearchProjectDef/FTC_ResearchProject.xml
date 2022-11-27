@@ -2,16 +2,16 @@
 <LanguageData>
 
   <FTC_Decoy.label>Data:Strategic deception</FTC_Decoy.label>
-  <FTC_Decoy.description>[Data decryption completed] \n To protect those settlements that really matter to us, we need a stronghold, a fortified citadel that took everyone's attention.\n\n whatever, a place... that no one could ignore___Interstellar Industries Complex Nara</FTC_Decoy.description>
+  <FTC_Decoy.description>[Data decryption completed] \n To protect our most important settlements, we need a stronghold, a fortified citadel that will attract the enemies instead.\n\n A place... That no one could ignore___Interstellar Industries Complex Nara</FTC_Decoy.description>
 
   <FTC_PermanentStructure.label>Permanent structures</FTC_PermanentStructure.label>
-  <FTC_PermanentStructure.description>Unlock the construction of Permanent structures, these concrete structures were designed to be a non-deconstructible buildings. \n\n Even if war disappears from this world,they will remain there, as a silenced concreted stele, for future generations to witness the war of the past.</FTC_PermanentStructure.description>
+  <FTC_PermanentStructure.description>Unlock the construction of permanent structures. These concrete structures are designed to be non-deconstructible. \n\n Even if conflict disappears from this world, they will remain, to serve as silent concrete monuments, to remind the future generations of wars of the past.</FTC_PermanentStructure.description>
 
   <FTC_PermanentBunker.label>Permanent fortifications</FTC_PermanentBunker.label>
-  <FTC_PermanentBunker.description>Unlock the construction of Permanent fortifications, these concrete facilities were designed to be a non-deconstructible weapon platform. \n\n Even if war disappears from this world, they will remain there disarmed, as a silenced remain, for future generations to witness the war of the past.</FTC_PermanentBunker.description>
+  <FTC_PermanentBunker.description>Unlock the construction of permanent fortifications. These concrete facilities are designed to be non-deconstructible weapon platforms. \n\n Even if conflict disappears from this world, they will remain, disarmed, as silent husks, to remind the future generations of wars of the past.</FTC_PermanentBunker.description>
 
-  <FTC_TurretBunker.label>Tank Bunker</FTC_TurretBunker.label>
-  <FTC_TurretBunker.description>The installation of a tank turret in a semi-buried concrete structure can provide strong firepower and a safe shooting environment, but it can only execute simple orders because it cannot receive communications.</FTC_TurretBunker.description>
+  <FTC_TurretBunker.label>Tank bunker</FTC_TurretBunker.label>
+  <FTC_TurretBunker.description>A tank turret installed on an entrenched concrete. Provides strong firepower while keeping the gunners safe. Unfortunately, lack of direct communication with gunners inside limits this fortification to only the most simplest orders.</FTC_TurretBunker.description>
 
 
 </LanguageData>
